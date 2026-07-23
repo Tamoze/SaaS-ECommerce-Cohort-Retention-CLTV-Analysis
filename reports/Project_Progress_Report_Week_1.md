@@ -42,3 +42,4 @@ The project now has a fully documented analytical environment and a validated tr
 **Project:** SaaS/E-Commerce Cohort Retention & CLTV Analysis  
 **Organization:** Infotact Solutions  
 **Reporting Period:** Week 1
+
