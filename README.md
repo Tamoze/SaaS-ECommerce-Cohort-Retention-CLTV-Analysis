@@ -213,6 +213,12 @@ Actual CAC is **not available in the source dataset**, so the dashboard uses an 
 - Customer segmentation
 - Historical versus predicted value
 
+### Dashboard Screenshot
+
+![Executive Overview Dashboard](images/Executive%20Overview%20Dashboard.png)
+
+**Business purpose:** Provides an executive-level view of customer value and the overall financial and customer-value position of the business.
+
 ## Page 2 — Cohort Retention Analysis
 
 - Total cohorts
@@ -222,6 +228,12 @@ Actual CAC is **not available in the source dataset**, so the dashboard uses an 
 - Cohort size
 - Lifecycle retention trends
 
+### Dashboard Screenshot
+
+![Cohort Retention Dashboard](images/Cohort%20Retention%20Dashboard.png)
+
+**Business purpose:** Helps identify customer retention patterns and lifecycle drop-off points that can inform targeted retention and re-engagement strategies.
+
 ## Page 3 — Customer Segmentation & Predictive CLTV
 
 - High Value customer analysis
@@ -230,6 +242,12 @@ Actual CAC is **not available in the source dataset**, so the dashboard uses an 
 - Top predicted customers
 - Revenue per transaction by segment
 - CLTV:CAC scenario analysis
+
+### Dashboard Screenshot
+
+![Predictive CLTV Dashboard](images/Predictive%20CLTV%20Dashboard.png)
+
+**Business purpose:** Supports customer prioritization, value-based segmentation, predictive customer-value decisions, and CLTV:CAC scenario planning.
 
 # Business Personas
 
