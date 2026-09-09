@@ -1,0 +1,3 @@
+CustomerType,NumberOfCustomers,AverageCLTV,AverageRevenue,AverageOrders
+Repeat Customer,4255,4384.14,3951.71,8.31
+Single Purchase,1623,4142.5,345.21,1.0

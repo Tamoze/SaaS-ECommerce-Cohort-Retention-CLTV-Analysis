@@ -1,0 +1,4 @@
+CLTVSegment,NumberOfCustomers,AverageCLTV,AverageOrderValue,AverageOrders
+Low Value,1960,856.17,202.48,3.83
+Medium Value,1959,2248.5,294.67,5.38
+High Value,1959,9849.37,658.49,9.66
